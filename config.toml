@@ -1,0 +1,7 @@
+[app]
+home = "/home/greene/workspace/workflow"
+pyenv = "/home/greene/.cache/pypoetry/virtualenvs/workflow-5V-OtJzD-py3.9/bin"
+postgres_uri = ""
+
+[script]
+sql_dir = "/home/greene/workspace/workflow/sql"
